@@ -1,13 +1,7 @@
 
 
 <!--
-  <<< Author notes: Step 3 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked the homepage content was not empty.
--->
 
-## Step 3: Customize your homepage
 
 _Nice work setting the theme! :sparkles:_
 
